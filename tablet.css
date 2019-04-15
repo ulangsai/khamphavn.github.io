@@ -1,0 +1,70 @@
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+
+    #banner {
+        background-image: url("image/hinh-nen-vinh-ha-long-dep-2_052340342.jpg");
+        padding: 78px;
+        padding-bottom: 350px;
+        background-repeat: no-repeat;
+    }
+    .container-fluid {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin: 20px;
+        background-color: whitesmoke;
+        
+    }
+    
+    h1.title {
+        font-size: 27px;
+        padding-left: 250px;
+        margin: -17px;
+    }
+    
+    img {
+        width: 695px;
+        padding: 0;
+    }
+    body {
+        font-family: 'Noto Serif', serif;
+        display: contents;
+    }
+    
+    .form-control.mr-sm-2 {
+        padding-right: 446px;
+    }
+
+    h1, h1 {
+        padding-left: 0;
+    }
+
+    .introduction {
+        text-align: center;
+        padding-top: 0;
+        
+    }
+
+.buttonclick {
+    padding-top: 145px;
+}
+
+i {
+    padding-left: 240px;
+    /* text-align: center; */
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+    

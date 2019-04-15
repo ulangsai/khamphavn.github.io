@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Noto Serif', serif;
+}
+
+
+#banner {
+    background-image: url("image/Anhnen.jpg");
+    padding: 500px;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.introduction {
+    text-align: center;
+}
+
+.container-fluid {
+    margin: 20px;
+    background-color: whitesmoke;
+}
+
+.form-inline {
+    float: right;
+}
+
+.h1, h1 {
+    font-size: 30px;
+    padding-left: 650px;
+}
+.h2, h2 {
+    font-size: 2rem;
+    padding-top: 30px;
+}
+
+.h3, h3 {
+    font-size: 1.75rem;
+    
+    text-align:center;
+}
+
+P {
+    padding-left: 30px;
+    padding-right:30px;
+}
+
+i {
+    padding-left: 460px;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+    padding-left: 200px;
+}
+
+.main {
+    background-color: floralwhite;
+}
+
+h1.title {
+    margin: -12px;
+}
